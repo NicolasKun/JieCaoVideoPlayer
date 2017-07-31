@@ -15,6 +15,8 @@ Android truly full-screen capabilities, the Android platform to become the most 
 
 [中文文档](README-ZH.md)
 
+### 备份
+
 ## Features
 1. Launching new Fullscreen Activity when playing video in fullscreen mode
 2. Completely custom ui
